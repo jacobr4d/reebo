@@ -1,0 +1,8 @@
+txt/
+xml/
+sgml/
+html/
+env/
+.DS_Store
+*.flac
+*.mp3
