@@ -3,6 +3,7 @@ xml/
 sgml/
 html/
 env/
+tmp/
 .DS_Store
 *.flac
 *.mp3
